@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Movie And Tv Show Catalogues Apps</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="fav">Favourite</string>
+    <string name="question">Are you sure you want to delete this data?</string>
+    <string name="dialog_title">Remove Movie</string>
+    <string name="dialog_tv_title">Remove Tv</string>
+    <string name="favmovie">Favourite Movie</string>
+    <string name="dataFail">Data Movie has been added to favorites </string>
+    <string name="dataTv">Data Tv has been added to favorites </string>
+    <string name="tvfav">Favourite TvShow</string>
+    <string name="title_movie">This is Fragment of Movie</string>
+    <string name="title">Movie Title :</string>
+    <string name="moviename">Release Date :</string>
+    <string name="overview">Overview Movie :</string>
+    <string name="overview_tv">Overview Tv Show :</string>
+    <string name="tv_title">Tv Show Title :</string>
+    <string name="tv_date">Release Date :</string>
+    <string name="translate">Language Settings</string>
+    <string name="tv">Tv Show</string>
+    <string name="av">Vote Average</string>
+    <string name="tx_movie_click">"The Movie that you choose is : "</string>
+    <string name="tx_tv_click">"The Tv Show that you choose is : "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_success">Delete Success</string>
+    <string name="delete_failed">Delete Failed</string>
+    <string name="search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="release_reminder">Release Today Reminder</string>
+    <string name="release_movie">Release New Movie</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="setting">Setting</string>
+    <string name="daily_notif_disabled">Daily Reminder Disabled</string>
+    <string name="daily_notif_enabled">Daily Reminder Enabled</string>
+
+    <string name="new_release_disabled">New Release Movie Disabled</string>
+    <string name="new_release_enabled">New Release Movie Enabled</string>
+
+    <string name="status_daily">Lets comeback to your Movie Catalogue !!!!!!</string>
+    <string name="check_now">Dont want to miss it !!!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">Favorite Movie Widget</string>
+    <string name="empty_text">No Data Found. Favourite Movie will be show here.</string>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Katalog Film dan Acara Tv</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="title_movie">Ini Fragment Movie</string>
+    <string name="title">Judul Film : </string>
+    <string name="moviename">Tanggal Rilis : </string>
+    <string name="overview">"Overview FIlm : "</string>
+    <string name="tv_title">Judul TV : </string>
+    <string name="tv_date">Tanggal Rilis :</string>
+    <string name="translate">Pengaturan Bahasa</string>
+    <string name="tv">Acara Tv</string>
+    <string name="av">Rata-rata suara</string>
+    <string name="overview_tv">Overview Acara Tv :</string>
+    <string name="tx_movie_click">"Film yang kamu pilih yaitu : "</string>
+    <string name="tx_tv_click">Acara Tv yang kamu pilih yaitu :</string>
+    <string name="fav">Favorit</string>
+    <string name="favmovie">Film Favorit</string>
+    <string name="tvfav">Acara Tv Favorit</string>
+    <string name="question">Apakah anda yakin ingin menghapus data ini?</string>
+    <string name="dialog_title">Hapus Movie</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="delete_success">Hapus Berhasil</string>
+    <string name="delete_failed">Hapus Gagal</string>
+    <string name="dialog_tv_title">Hapus Tv Show</string>
+    <string name="dataFail">Data Film sudah pernah ditambahkan ke favorit</string>
+    <string name="dataTv">Data Tv sudah pernah ditambahkan ke favorit</string>
+    <string name="search">Pencarian</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="release_reminder">Pengingat Rilis Hari ini</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="setting">Pengaturan</string>
+    <string name="hello_blank_fragment">Hallo Fragment Kosong</string>
+    <string name="appwidget_text">Widget film Favorite</string>
+    <string name="empty_text">Tidak ada Data. Favorit Film akan tampil disini</string>
+    <string name="daily_notif_disabled">Pengingat Harian Dinonaktifkan</string>
+    <string name="daily_notif_enabled">Pengingat Harian Diaktifkan</string>
+    <string name="new_release_disabled">Pengingat Rilis Fillm Baru Dinonaktifkan</string>
+    <string name="new_release_enabled">Pengingat Rilis Film Baru Diaktifkan</string>
+    <string name="status_daily">Ayo.. Kembali ke Aplikasi Movie Catalogue !</string>
+    <string name="check_now">Jangan mau ketinggalan !!!!</string>
+    <string name="release_movie">Film Rilis Terbaru</string>
+
+</resources>

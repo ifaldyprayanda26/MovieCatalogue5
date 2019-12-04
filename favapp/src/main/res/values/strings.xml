@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Favourite Movie</string>
+    <string name="movie">Favourite Movie</string>
+    <string name="date">Release Date :</string>
+    <string name="av">Vote Average</string>
+    <string name="title">Movie Title :</string>
+    <string name="overview">Overview :</string>
+</resources>
